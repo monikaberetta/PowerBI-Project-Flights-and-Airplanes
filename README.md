@@ -10,15 +10,25 @@ It demonstrates skills in data cleaning, data modeling, DAX, visual design, and 
 
 
 * Project Overview
+  
 The dashboard provides a multi-page analytical view of airline operations, including:
+
 Key operational KPIs
+
 Airline and route performance
+
 Passenger and revenue trends
+
 Global route network mapping
+
 Delay analysis
+
 Detailed flight-level data
+
 What-If simulation for pricing strategy
+
 Executive summary
+
 The goal is to offer a comprehensive yet intuitive view of airline performance for managers, analysts, and strategic decision-makers.
 
 * Data Sources
@@ -115,6 +125,7 @@ xecutive-level overview of the most important insights from the report.
 3. Interact with slicers (Airline, Route, Year)
 4. Use drillthrough to explore flight-level details
 5.Experiment with What-If price scenarios
+
 
 
 
